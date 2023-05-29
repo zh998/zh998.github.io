@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-29T08:08:50.184Z</updated>
+  <updated>2023-05-29T09:33:54.060Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,43 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test.md</title>
-    <link href="http://example.com/2023/05/29/test-md/"/>
-    <id>http://example.com/2023/05/29/test-md/</id>
-    <published>2023-05-29T04:50:52.000Z</published>
-    <updated>2023-05-29T08:08:50.184Z</updated>
+    <title>test</title>
+    <link href="http://example.com/2023/05/29/test/"/>
+    <id>http://example.com/2023/05/29/test/</id>
+    <published>2023-05-29T09:21:53.000Z</published>
+    <updated>2023-05-29T09:33:54.060Z</updated>
     
-    <content type="html"><![CDATA[<p>k是是的地狱天堂</p><p>点击简单dascnsaih</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;k是是的地狱天堂&lt;/p&gt;
-&lt;p&gt;点击简单dascnsaih&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>文章标题</title>
-    <link href="http://example.com/2023/05/29/%E5%86%AC%E5%A4%A9/"/>
-    <id>http://example.com/2023/05/29/%E5%86%AC%E5%A4%A9/</id>
-    <published>2023-05-29T02:43:20.000Z</published>
-    <updated>2023-05-29T08:54:09.480Z</updated>
-    
-    <content type="html"><![CDATA[<p>#C语言</p><p><em>程序</em>：&#x3D;&#x3D;为了让计算机执行某些操作或者解决某个问题来编写的一系列有序指令的集合&#x3D;&#x3D;<br>软件&#x3D;程序+文档<br>C语言是结构化的语言</p><p>###C语言的发展历程</p><p>1.C语言之父 UNIX之父 丹尼斯.里奇 1973年UNIX操作系统的核心用C语言改写 C语言是成为操作系统的主要语言<br>2.其它语言深受C语言的影响<br>3.1972年C语言诞生 1978年在贝尔实验室正式发布<br>4.1983年ANSI开始制定C语言标准 89年完成标准的指定叫C89 ANSI（美国国家标准局）也叫标准C<br>5.1999年ISO发布C99标准增加了不少内容 ISO（国际化标准组织）</p><p>##C语言的特点</p><p>1.语言简洁，紧凑，灵活（32个关键字）<br>2.运算符和数据类型丰富<br>3.程序设计结构化，模块化<br>4.生成目标代码质量高<br>5.可以移植性好</p><p>####关键字</p><p>由系统定义，不能用作其它定义 都是小写单词 </p><div class="tag-plugin image"><div class="image-bg"><img src="/.com//hexo\blog\source\_posts\pic-20230305095159469.png" alt="image-20230305095159469"></div><div class="image-meta"><span class="image-caption center">image-20230305095159469</span></div></div><p>####标识符</p><p>用户的标识符：由字母（26个大小写字母），数字和下划线组成，不能以数字开头，区分大小写</p><p>###C语言的简单结构</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span> 头文件编译预处理</span></span><br><span class="line">main() 主函数 有且仅有</span><br><span class="line">&#123;</span><br><span class="line"><span class="built_in">printf</span>();输出语句</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>####结构特点</p><p>1.程序由一个或多个函数组成<br>2.必须有且只能有一个主函数&#x3D;&#x3D;main&#x3D;&#x3D;()  &#x3D;&#x3D;函数是C语言的基本单位&#x3D;&#x3D;<br>3.程序执行从main开始，在main结束<br>4.C程序由语句组成 &#x3D;&#x3D;语句是C语言的最小单位&#x3D;&#x3D;<br>5.用&#x3D;&#x3D;;&#x3D;&#x3D;作为语句终止符<br>注释后程序不执行该语句<br>1.单行注释：&#x2F;&#x2F; ctrl+&#x2F; 注释快捷键<br>2.多行注释（块注释）：&#x2F;*（注释内容）   *&#x2F; &#x3D;&#x3D;块注释里面不允许块注释的嵌套&#x3D;&#x3D;</p><p>####格式特点</p><p>1.习惯用小写字母 ，大小写敏感 不使用行号，没有程序行概念 可使用空行和空格 常用锯齿形书写格式<br>1.编辑，编写我们的&#x3D;&#x3D;.c&#x3D;&#x3D;文件，就是源代码<br>2.编译，将.C程序翻译成&#x3D;&#x3D;目标文件（.obj）&#x3D;&#x3D;&#x2F;&#x2F;在计算机底层执行<br>3.链接，将目标文件hello.obj+库文件生成&#x3D;&#x3D;可执行文件.exe&#x3D;&#x3D; 在计算机底层执行<br>4.运行，执行.exe文件，得到运行结果<div class="tag-plugin image"><div class="image-bg"><img src="/.com//hexo\blog\source\_posts\pic-20230303140734651.png"></div></div></p><p>####C语言开发注意事项</p><div class="tag-plugin image"><div class="image-bg"><img src="/.com//hexo\blog\source\_posts\pic-20230303143703001.png"></div></div><p>##算法  </p><p>一个程序应包括两个方面的内容<br>对数据组织的描述：<br>&#x3D;&#x3D;数据结构&#x3D;&#x3D;   顺序存储（数组）和链式存储<br>对操作步骤的描述：<br>&#x3D;&#x3D;算法&#x3D;   穷举 迭代和递归 增删改查<br>数据结构+算法&#x3D;程序&#x3D;&#x3D;<br>所谓算法，是为了解决一个问题而采取的方法和步骤<br><strong>解决问题的算法不唯一</strong></p>]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin image"><div class="image-bg"><img src="/images/2.jpg"/></div></div><div class="tag-plugin image"><div class="image-bg"><img src="/images/3.jpg"/></div></div><div class="tag-plugin image"><div class="image-bg"><img src="/images/4.jpg"/></div></div><p>测试测试</p><h2 id="这里是标题"><a href="#这里是标题" class="headerlink" title="这里是标题"></a>这里是标题</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;#C语言&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;程序&lt;/em&gt;：&amp;#x3D;&amp;#x3D;为了让计算机执行某些操作或者解决某个问题来编写的一系列有序指令的集合&amp;#x3D;&amp;#x3D;&lt;br&gt;软件&amp;#x3D;程序+文档&lt;br&gt;C语言是结构化的语言&lt;/p&gt;
-&lt;p&gt;###C语言的发展历程&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;div class=&quot;tag-plugin image&quot;&gt;&lt;div class=&quot;image-bg&quot;&gt;&lt;img src=&quot;/images/2.jpg&quot;/&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;tag-plugin image&quot;&gt;&lt;div class=&quot;image-</summary>
       
     
     
