@@ -1,6 +1,6 @@
-https://zh998.github.io/project/2023/05/29/test/
-https://zh998.github.io/project/2023/05/29/index/
-https://zh998.github.io/project/wiki/index.html
-https://zh998.github.io/project/2023/05/29/test1/
-https://zh998.github.io/project
-https://zh998.github.io/project/categories/linux/
+https://zh998.github.io/2023/05/29/test/
+https://zh998.github.io/2023/05/29/index/
+https://zh998.github.io/wiki/index.html
+https://zh998.github.io/2023/05/29/test1/
+https://zh998.github.io/
+https://zh998.github.io/categories/linux/

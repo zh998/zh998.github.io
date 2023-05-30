@@ -3,11 +3,11 @@
   <title>汉斯小木屋</title>
   
   <subtitle>天生我材必有用</subtitle>
-  <link href="https://zh998.github.io/project/atom.xml" rel="self"/>
+  <link href="https://zh998.github.io/atom.xml" rel="self"/>
   
-  <link href="https://zh998.github.io/project/"/>
+  <link href="https://zh998.github.io/"/>
   <updated>2023-05-30T09:59:54.207Z</updated>
-  <id>https://zh998.github.io/project/</id>
+  <id>https://zh998.github.io/</id>
   
   <author>
     <name>远志</name>
@@ -18,23 +18,23 @@
   
   <entry>
     <title>index</title>
-    <link href="https://zh998.github.io/project/2023/05/29/index/"/>
-    <id>https://zh998.github.io/project/2023/05/29/index/</id>
+    <link href="https://zh998.github.io/2023/05/29/index/"/>
+    <id>https://zh998.github.io/2023/05/29/index/</id>
     <published>2023-05-29T13:13:43.000Z</published>
     <updated>2023-05-30T09:59:54.207Z</updated>
     
     
     
     
-    <category term="linux" scheme="https://zh998.github.io/project/categories/linux/"/>
+    <category term="linux" scheme="https://zh998.github.io/categories/linux/"/>
     
     
   </entry>
   
   <entry>
     <title>test1</title>
-    <link href="https://zh998.github.io/project/2023/05/29/test1/"/>
-    <id>https://zh998.github.io/project/2023/05/29/test1/</id>
+    <link href="https://zh998.github.io/2023/05/29/test1/"/>
+    <id>https://zh998.github.io/2023/05/29/test1/</id>
     <published>2023-05-29T12:57:27.000Z</published>
     <updated>2023-05-30T01:22:34.549Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://zh998.github.io/project/2023/05/29/test/"/>
-    <id>https://zh998.github.io/project/2023/05/29/test/</id>
+    <link href="https://zh998.github.io/2023/05/29/test/"/>
+    <id>https://zh998.github.io/2023/05/29/test/</id>
     <published>2023-05-29T09:21:53.000Z</published>
     <updated>2023-05-30T09:59:56.151Z</updated>
     
