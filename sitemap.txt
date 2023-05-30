@@ -1,6 +1,6 @@
-http://example.com/2023/05/29/test/
-http://example.com/2023/05/29/index/
-http://example.com/wiki/index.html
-http://example.com/2023/05/29/test1/
-http://example.com/
-http://example.com/categories/linux/
+https://zh998.github.io/project/2023/05/29/test/
+https://zh998.github.io/project/2023/05/29/index/
+https://zh998.github.io/project/wiki/index.html
+https://zh998.github.io/project/2023/05/29/test1/
+https://zh998.github.io/project
+https://zh998.github.io/project/categories/linux/
