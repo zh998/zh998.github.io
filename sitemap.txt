@@ -1,5 +1,7 @@
+http://example.com/wiki/index.html
+http://example.com/2023/05/30/test2/
+http://example.com/2023/05/29/test1/
 http://example.com/2023/05/29/index/
 http://example.com/2023/05/29/test/
-http://example.com/2023/05/29/test1/
 http://example.com/
 http://example.com/categories/linux/
