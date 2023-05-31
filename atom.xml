@@ -6,7 +6,7 @@
   <link href="https://yzyyyyy.cn/atom.xml" rel="self"/>
   
   <link href="https://yzyyyyy.cn/"/>
-  <updated>2023-05-30T09:59:54.207Z</updated>
+  <updated>2023-05-31T01:03:25.000Z</updated>
   <id>https://yzyyyyy.cn/</id>
   
   <author>
@@ -17,16 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Linux</title>
+    <link href="https://yzyyyyy.cn/2023/05/31/Linux/"/>
+    <id>https://yzyyyyy.cn/2023/05/31/Linux/</id>
+    <published>2023-05-31T01:02:20.000Z</published>
+    <updated>2023-05-31T01:03:25.000Z</updated>
+    
+    
+    
+    
+    <category term="Linux" scheme="https://yzyyyyy.cn/categories/Linux/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>index</title>
     <link href="https://yzyyyyy.cn/2023/05/29/index/"/>
     <id>https://yzyyyyy.cn/2023/05/29/index/</id>
     <published>2023-05-29T13:13:43.000Z</published>
-    <updated>2023-05-30T09:59:54.207Z</updated>
+    <updated>2023-05-31T01:03:25.856Z</updated>
     
     
     
     
-    <category term="linux" scheme="https://yzyyyyy.cn/categories/linux/"/>
+    <category term="Linux" scheme="https://yzyyyyy.cn/categories/Linux/"/>
     
     
   </entry>
