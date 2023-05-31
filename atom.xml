@@ -6,7 +6,7 @@
   <link href="https://yzyyyyy.cn/atom.xml" rel="self"/>
   
   <link href="https://yzyyyyy.cn/"/>
-  <updated>2023-05-31T05:49:33.662Z</updated>
+  <updated>2023-05-31T05:55:45.046Z</updated>
   <id>https://yzyyyyy.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yzyyyyy.cn/2023/05/31/Linux%E5%9F%BA%E7%A1%80%E7%AD%91%E5%9F%BA/"/>
     <id>https://yzyyyyy.cn/2023/05/31/Linux%E5%9F%BA%E7%A1%80%E7%AD%91%E5%9F%BA/</id>
     <published>2023-05-31T01:02:20.000Z</published>
-    <updated>2023-05-31T05:49:33.662Z</updated>
+    <updated>2023-05-31T05:55:45.046Z</updated>
     
     <content type="html"><![CDATA[<h2 id="第一章Linux发展由来"><a href="#第一章Linux发展由来" class="headerlink" title="第一章Linux发展由来"></a>第一章Linux发展由来</h2><h3 id="开篇介绍"><a href="#开篇介绍" class="headerlink" title="开篇介绍"></a>开篇介绍</h3><ol><li><p>什么是计算机？为什么要有计算机？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">代替人力的一种机器</span><br><span class="line">计算机诞生的早期目的是科学计算 将人类从重复繁杂的工作中解放出来</span><br><span class="line">第一台计算机诞生于1946年美国宾夕法尼亚大学</span><br></pre></td></tr></table></figure></li><li><p>什么是编程语言？什么是编程？为什么要编程？什么是程序？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">编程语言就是人的和计算机沟通的语言</span><br><span class="line">编程就是让计算机按照人的指令步骤做事</span><br><span class="line">让计算机取代人力</span><br><span class="line">程序就是一段有序的指令集合 一堆代码文件</span><br></pre></td></tr></table></figure></li><li><p>程序分为两类</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">应用程序</span><br><span class="line">操作系统(协调管理计算机硬件资源和应用软件资源的控制程序)</span><br></pre></td></tr></table></figure></li><li><p>计算机系统三层结构</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">应用程序(应用软件)</span><br><span class="line">-----</span><br><span class="line">操作系统（系统软件）</span><br><span class="line">-----</span><br><span class="line">计算机硬件</span><br></pre></td></tr></table></figure><div class="tag-plugin image"><div class="image-bg"><img src="/images/6.JPG"/></div></div></li><li><p>2</p></li><li><p>2</p></li></ol><h3 id="计算机硬件组成"><a href="#计算机硬件组成" class="headerlink" title="计算机硬件组成"></a>计算机硬件组成</h3>]]></content>
     
@@ -36,6 +36,8 @@
     <category term="Linux" scheme="https://yzyyyyy.cn/categories/Linux/"/>
     
     
+    <category term="Linux" scheme="https://yzyyyyy.cn/tags/Linux/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +45,7 @@
     <link href="https://yzyyyyy.cn/2023/05/29/index/"/>
     <id>https://yzyyyyy.cn/2023/05/29/index/</id>
     <published>2023-05-29T13:13:43.000Z</published>
-    <updated>2023-05-31T05:54:01.830Z</updated>
+    <updated>2023-05-31T05:56:12.544Z</updated>
     
     <content type="html"><![CDATA[<div class="tag-plugin note" color="red"><div class="body"><p>就是执行电话回家的结婚的话获得</p></div></div><div class="tag-plugin note" color="cyan"><div class="title">一共支持12种颜色</div><div class="body"><p>color 可设置 red、orange、yellow、green、cyan、blue、purple、light、dark、warning、error 几种取值。 的经济深的即可打sna 基督教的</p></div></div><div class="tag-plugin poetry"><div class="content"><div class="title">游山西村</div><div class="meta"><span>陆游</span></div><div class="body"><p>莫笑农家腊酒浑，丰年留客足鸡豚。<br><strong>山重水复疑无路，柳暗花明又一村。</strong><br>箫鼓追随春社近，衣冠简朴古风存。<br>从今若许闲乘月，拄杖无时夜叩门。</p></div><div class="footer">诗词节选</div></div></div><div class="tag-plugin note" color="red"><div class="title"><strong>测试</strong></div><div class="body"><p>1 应用程序</p><p>2操作系统</p></div></div>]]></content>
     
