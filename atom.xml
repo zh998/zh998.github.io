@@ -6,7 +6,7 @@
   <link href="https://yzyyyyy.cn/atom.xml" rel="self"/>
   
   <link href="https://yzyyyyy.cn/"/>
-  <updated>2023-05-31T01:03:25.000Z</updated>
+  <updated>2023-05-31T02:56:29.665Z</updated>
   <id>https://yzyyyyy.cn/</id>
   
   <author>
@@ -17,12 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux</title>
+    <title>Linux基础筑基</title>
     <link href="https://yzyyyyy.cn/2023/05/31/Linux/"/>
     <id>https://yzyyyyy.cn/2023/05/31/Linux/</id>
     <published>2023-05-31T01:02:20.000Z</published>
-    <updated>2023-05-31T01:03:25.000Z</updated>
+    <updated>2023-05-31T02:56:29.665Z</updated>
     
+    <content type="html"><![CDATA[<p>##第一章Linux发展由来</p><h3 id="开篇介绍"><a href="#开篇介绍" class="headerlink" title="开篇介绍"></a>开篇介绍</h3><ol><li><p>什么是计算机？为什么要有计算机？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">代替人力的一种机器</span><br><span class="line">计算机诞生的早期目的是科学计算 将人类从重复繁杂的工作中解放出来</span><br><span class="line">第一台计算机诞生于1946年美国宾夕法尼亚大学</span><br></pre></td></tr></table></figure></li><li><p>什么是编程语言？什么是编程？为什么要编程？什么是程序？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">编程语言就是人的和计算机沟通的语言</span><br><span class="line">编程就是让计算机按照人的指令步骤做事</span><br><span class="line">让计算机取代人力</span><br><span class="line">程序就是一段有序的指令集合 一堆代码文件</span><br></pre></td></tr></table></figure></li><li><p>程序分为两类</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">1 应用程序</span><br><span class="line">2 操作系统(协调管理计算机硬件资源和应用软件资源的控制程序)</span><br></pre></td></tr></table></figure></li><li><p>计算机系统三层结构</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1 应用程序(应用软件)</span><br><span class="line">-----</span><br><span class="line">2 操作系统（系统软件）</span><br><span class="line">-----</span><br><span class="line">3 计算机硬件</span><br></pre></td></tr></table></figure><div class="tag-plugin image"><div class="image-bg"><img src="/images/6.JPG"/></div></div></li><li><p>2</p></li><li><p>2</p></li></ol><p>###计算机硬件组成</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##第一章Linux发展由来&lt;/p&gt;
+&lt;h3 id=&quot;开篇介绍&quot;&gt;&lt;a href=&quot;#开篇介绍&quot; class=&quot;headerlink&quot; title=&quot;开篇介绍&quot;&gt;&lt;/a&gt;开篇介绍&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;什么是计算机？为什么要有计算机？&lt;/p&gt;
+&lt;figure cl</summary>
+      
     
     
     
