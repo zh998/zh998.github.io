@@ -6,7 +6,7 @@
   <link href="https://yzyyyyy.cn/atom.xml" rel="self"/>
   
   <link href="https://yzyyyyy.cn/"/>
-  <updated>2023-06-05T08:07:31.408Z</updated>
+  <updated>2023-06-05T08:34:20.828Z</updated>
   <id>https://yzyyyyy.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>操作系统进程任务详解</title>
+    <link href="https://yzyyyyy.cn/2023/06/05/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E7%A8%8B%E4%BB%BB%E5%8A%A1%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://yzyyyyy.cn/2023/06/05/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E7%A8%8B%E4%BB%BB%E5%8A%A1%E8%AF%A6%E8%A7%A3/</id>
+    <published>2023-06-05T08:09:26.000Z</published>
+    <updated>2023-06-05T08:34:20.828Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="进程线程运行提交"><a href="#进程线程运行提交" class="headerlink" title="进程线程运行提交"></a>进程线程运行提交</h2><h3 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h3><p><strong>进程</strong></p><p>​是资源单位</p><p><strong>线程</strong></p><p>​是执行单位</p><h3 id="任务运行状态"><a href="#任务运行状态" class="headerlink" title="任务运行状态"></a>任务运行状态</h3><ol><li><pre><code class="markdown">非阻塞态（运行态 就绪态） 阻塞态</code></pre><div class="tag-plugin image"><div class="image-bg"><img src="/images/未命名文件.jpg" alt="任务运行示意图"/></div><div class="image-meta"><span class="image-caption center">任务运行示意图</span></div></div></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;进程线程运行提交&quot;&gt;&lt;a href=&quot;#进程线程运行提交&quot; class=&quot;headerlink&quot; title=&quot;进程线程运行提交&quot;&gt;&lt;/a&gt;进程线程运行提交&lt;/h2&gt;&lt;h3 id=&quot;进程与线程&quot;&gt;&lt;a href=&quot;#进程与线程&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    <category term="Linux基础筑基第一章" scheme="https://yzyyyyy.cn/categories/Linux%E5%9F%BA%E7%A1%80%E7%AD%91%E5%9F%BA%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+    
+    
+    <category term="Linux,重点知识" scheme="https://yzyyyyy.cn/tags/Linux-%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>操作系统发展史</title>
