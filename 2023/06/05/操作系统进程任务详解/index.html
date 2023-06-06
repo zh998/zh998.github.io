@@ -23,16 +23,16 @@
   <title>操作系统进程任务详解 - 汉斯小木屋</title>
 
   
-    <meta name="description" content="进程线程运行提交进程与线程进程 ​	是资源单位 线程 ​	是执行单位 任务运行状态 非阻塞态（运行态 就绪态）  阻塞态  任务运行示意图">
+    <meta name="description" content="进程线程运行提交进程与线程进程 ​	是资源单位：一个程序在运行过程中使用的数据都与自己的进程有关 线程 ​	是执行单位：是进程内代码的运行过程 任务运行状态 非阻塞态（运行态 就绪态）  阻塞态  运行态：拿到cpu，正在运行 就绪态：等待被分配cpu，一旦拿到CPU就可以立即运行 阻塞态：拿到CPU也无法执行，必须等到io结束，进入就绪态  任务运行示意图">
 <meta property="og:type" content="article">
 <meta property="og:title" content="操作系统进程任务详解">
 <meta property="og:url" content="https://yzyyyyy.cn/2023/06/05/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E7%A8%8B%E4%BB%BB%E5%8A%A1%E8%AF%A6%E8%A7%A3/index.html">
 <meta property="og:site_name" content="汉斯小木屋">
-<meta property="og:description" content="进程线程运行提交进程与线程进程 ​	是资源单位 线程 ​	是执行单位 任务运行状态 非阻塞态（运行态 就绪态）  阻塞态  任务运行示意图">
+<meta property="og:description" content="进程线程运行提交进程与线程进程 ​	是资源单位：一个程序在运行过程中使用的数据都与自己的进程有关 线程 ​	是执行单位：是进程内代码的运行过程 任务运行状态 非阻塞态（运行态 就绪态）  阻塞态  运行态：拿到cpu，正在运行 就绪态：等待被分配cpu，一旦拿到CPU就可以立即运行 阻塞态：拿到CPU也无法执行，必须等到io结束，进入就绪态  任务运行示意图">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://yzyyyyy.cn/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.jpg">
 <meta property="article:published_time" content="2023-06-05T08:09:26.000Z">
-<meta property="article:modified_time" content="2023-06-05T11:46:37.568Z">
+<meta property="article:modified_time" content="2023-06-06T00:20:26.613Z">
 <meta property="article:author" content="远志">
 <meta property="article:tag" content="Linux基础筑基">
 <meta name="twitter:card" content="summary">
@@ -108,12 +108,16 @@
 <article class='md-text content post'>
 <h1 class="article-title"><span>操作系统进程任务详解</span></h1>
 <h2 id="进程线程运行提交"><a href="#进程线程运行提交" class="headerlink" title="进程线程运行提交"></a>进程线程运行提交</h2><h3 id="进程与线程"><a href="#进程与线程" class="headerlink" title="进程与线程"></a>进程与线程</h3><p><strong>进程</strong></p>
-<p>​	是资源单位</p>
+<p>​	是资源单位：一个程序在运行过程中使用的数据都与自己的进程有关</p>
 <p><strong>线程</strong></p>
-<p>​	是执行单位</p>
+<p>​	是执行单位：是进程内代码的运行过程</p>
 <h3 id="任务运行状态"><a href="#任务运行状态" class="headerlink" title="任务运行状态"></a>任务运行状态</h3><ol>
 <li><pre><code class="markdown">非阻塞态（运行态 就绪态） 
 阻塞态
+
+运行态：拿到cpu，正在运行
+就绪态：等待被分配cpu，一旦拿到CPU就可以立即运行
+阻塞态：拿到CPU也无法执行，必须等到io结束，进入就绪态
 </code></pre>
 <div class="tag-plugin image"><div class="image-bg"><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="/images/未命名文件.jpg" alt="任务运行示意图"/></div><div class="image-meta"><span class="image-caption center">任务运行示意图</span></div></div></li>
 </ol>
