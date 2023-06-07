@@ -6,7 +6,7 @@
   <link href="https://yzyyyyy.cn/atom.xml" rel="self"/>
   
   <link href="https://yzyyyyy.cn/"/>
-  <updated>2023-06-06T13:37:51.929Z</updated>
+  <updated>2023-06-07T12:19:48.738Z</updated>
   <id>https://yzyyyyy.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>子网划分与vlan</title>
+    <link href="https://yzyyyyy.cn/2023/06/07/%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86%E4%B8%8Evlan/"/>
+    <id>https://yzyyyyy.cn/2023/06/07/%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86%E4%B8%8Evlan/</id>
+    <published>2023-06-07T11:23:59.000Z</published>
+    <updated>2023-06-07T12:19:48.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="子网划分与Vlan"><a href="#子网划分与Vlan" class="headerlink" title="子网划分与Vlan"></a>子网划分与Vlan</h2><h3 id="子网划分"><a href="#子网划分" class="headerlink" title="子网划分"></a>子网划分</h3><ul><li><p>为什么要划分子网？</p><ol><li>满足不同网络对IP地址的需求</li><li>节省IP地址资源减少IP地址的浪费</li><li>充分利用IP</li></ol></li><li><p>什么是子网掩码</p><ol><li>用来标识一个IP地址的网络地址和主机地址</li></ol></li><li><p>计算公式</p><p>**2<sup>m</sup>&#x3D;**向主机借位后产生的子网个数，m为所借的位数</p><p><strong>2<sup>n</sup>-2</strong>：<em>向主机借位后产生的每个子网中可用的主机IP数</em></p><p><em>n为源主机位剔除被借位后的剩余位数</em></p><p><em>减2是因为子网中的网络号和广播号不可用</em></p></li></ul><h3 id="VLAN"><a href="#VLAN" class="headerlink" title="VLAN"></a>VLAN</h3><ul><li><p><strong>什么是vlan？</strong></p><ol><li>Vlan是一种虚拟局域网技术</li><li>是一种可以在物理局域网在逻辑上划分出多个广播域的通信技术</li></ol></li><li><p><strong>VLAN技术诞生目的？</strong>、</p><ol><li>为了解决同一lan下主机数目较多时产生的冲突问题和广播泛滥问题</li></ol></li><li><p><strong>VLAN的作用是什么？</strong></p><ol><li><strong>限制广播域</strong><ul><li>广播域被限制在同一个VLAN中 可用节省带宽 提高网络处理能力</li></ul></li><li><strong>增强局域网安全性</strong><ul><li>不同vlan的报文在传输时相互隔离</li></ul></li><li><strong>提高网络健壮性</strong></li></ol><ul><li>故障被限制在一个VLAN内 本VLAN故障不会影响其他VLAN正常工作</li></ul></li><li><p><strong>VLAN的不足</strong></p><ol><li>最多只支持4096个VLAN网络</li><li>需要人工介入 对于管理大规模服务器不太友好</li></ol></li></ul><h4 id="VLAN交换机的两类端口"><a href="#VLAN交换机的两类端口" class="headerlink" title="VLAN交换机的两类端口"></a>VLAN交换机的两类端口</h4><p><strong>Access端口</strong></p><ul><li>主要与不能识别Tag的用户终端相连</li><li>只能连接一台</li></ul><p><strong>Trunk端口</strong></p><ul><li>主要用于交换机和路由器</li><li>可用串联多台交换机</li></ul><p><strong>VLAN格式</strong></p><ul><li>IEEE802.1Q标准 定义了VLAN格式</li></ul><h4 id="VLAN的类型"><a href="#VLAN的类型" class="headerlink" title="VLAN的类型"></a>VLAN的类型</h4><ul><li><strong>基于端口的VLAN</strong></li><li><strong>Tagged VLANS</strong>（常用）</li></ul><h3 id="子网划分以及VLAN的思维导图"><a href="#子网划分以及VLAN的思维导图" class="headerlink" title="子网划分以及VLAN的思维导图"></a>子网划分以及VLAN的思维导图</h3><div class="tag-plugin image"><div class="image-bg"><img src="/images/2023_6_7子网划分与VLAN.jpg"/></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;子网划分与Vlan&quot;&gt;&lt;a href=&quot;#子网划分与Vlan&quot; class=&quot;headerlink&quot; title=&quot;子网划分与Vlan&quot;&gt;&lt;/a&gt;子网划分与Vlan&lt;/h2&gt;&lt;h3 id=&quot;子网划分&quot;&gt;&lt;a href=&quot;#子网划分&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    <category term="Linux基础筑基第二章网络基础" scheme="https://yzyyyyy.cn/categories/Linux%E5%9F%BA%E7%A1%80%E7%AD%91%E5%9F%BA%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Linux基础筑基" scheme="https://yzyyyyy.cn/tags/Linux%E5%9F%BA%E7%A1%80%E7%AD%91%E5%9F%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>网络基础协议篇</title>
